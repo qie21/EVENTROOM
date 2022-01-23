@@ -1,0 +1,13 @@
+login details 
+
+admin: 
+username - admin 
+password - admin123 
+
+user: 
+username - staff 
+password - staff123  
+
+manager: 
+username - manager 
+password - manager123  
